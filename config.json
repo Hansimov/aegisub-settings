@@ -303,7 +303,7 @@
 			"Audio" : "",
 			"Automation" : "",
 			"Keyframes" : "",
-			"Subtitles" : "H:\\公开课\\scifi-intro\\Extra Sci Fi",
+			"Subtitles" : "H:\\公开课\\scifi-intro\\科幻概论",
 			"Timecodes" : "",
 			"Video" : "H:\\公开课\\scifi-intro\\Extra Sci Fi"
 		},
@@ -621,7 +621,7 @@
 			]
 		},
 		"Preferences" : {
-			"Page" : 8
+			"Page" : 6
 		},
 		"Search Replace" : {
 			"Affect" : 0,

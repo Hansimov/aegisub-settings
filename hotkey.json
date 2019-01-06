@@ -258,18 +258,30 @@
 			"Ctrl-Enter"
 		],
 		"grid/line/prev" : [
-			"Alt-Enter"
+			"Ctrl-Alt-Enter"
 		],
 		"grid/move/down" : [
 			"Alt-Down"
 		],
 		"grid/move/up" : [
 			"Alt-Up"
+		],
+		"subtitle/select/visible" : [
+			"Ctrl-["
+		],
+		"video/play" : [
+			"Ctrl-\\"
+		],
+		"video/play/line" : [
+			"Ctrl-]"
 		]
 	},
 	"Subtitle Grid" : {
 		"subtitle/select/all" : [
 			"Ctrl-A"
+		],
+		"subtitle/select/visible" : [
+			"Ctrl-["
 		],
 		"video/frame/next" : [
 			"Right"
@@ -294,6 +306,12 @@
 		],
 		"video/frame/prev/large" : [
 			"Alt-Left"
+		],
+		"video/play" : [
+			"Ctrl-\\"
+		],
+		"video/play/line" : [
+			"Ctrl-]"
 		]
 	},
 	"Translation Assistant" : {
@@ -321,6 +339,15 @@
 		]
 	},
 	"Video" : {
+		"grid/line/next/create" : [
+			"Ctrl-Enter"
+		],
+		"grid/line/prev" : [
+			"Ctrl-Alt-Enter"
+		],
+		"subtitle/select/visible" : [
+			"Ctrl-["
+		],
 		"video/frame/next" : [
 			"Right"
 		],
@@ -344,6 +371,12 @@
 		],
 		"video/frame/prev/large" : [
 			"Alt-Left"
+		],
+		"video/play" : [
+			"Ctrl-\\"
+		],
+		"video/play/line" : [
+			"Ctrl-]"
 		],
 		"video/tool/clip" : [
 			"H"
