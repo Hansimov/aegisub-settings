@@ -255,10 +255,11 @@
 			"Alt-4"
 		],
 		"grid/line/next/create" : [
+			"Ctrl-Down",
 			"Ctrl-Enter"
 		],
 		"grid/line/prev" : [
-			"Ctrl-Alt-Enter"
+			"Ctrl-Up"
 		],
 		"grid/move/down" : [
 			"Alt-Down"
@@ -277,6 +278,13 @@
 		]
 	},
 	"Subtitle Grid" : {
+		"grid/line/next/create" : [
+			"Ctrl-Down",
+			"Ctrl-Enter"
+		],
+		"grid/line/prev" : [
+			"Ctrl-Up"
+		],
 		"subtitle/select/all" : [
 			"Ctrl-A"
 		],
@@ -340,10 +348,11 @@
 	},
 	"Video" : {
 		"grid/line/next/create" : [
+			"Ctrl-Down",
 			"Ctrl-Enter"
 		],
 		"grid/line/prev" : [
-			"Ctrl-Alt-Enter"
+			"Ctrl-Up"
 		],
 		"subtitle/select/visible" : [
 			"Ctrl-["
